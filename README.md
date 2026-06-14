@@ -1,18 +1,21 @@
 # Data Warehousing for Morons by DLH.io — Brandy's Burritos Dashboard
-## dlh-data-warehousing-for-morons-dashboard
+<!-- ## dlh-data-warehousing-for-morons-dashboard -->
 
 Greetings from your DLH.io team of data engineering, AI, and Analytics experts.
 
 This is the application for the Brandy's Burritos operations dashboard for our tutorials, classes, and articles.
 
-We've built this tutorial to help guide the world's engineers on the basics of data for operational reporting and ultimately AI enablement. 
+![Dashboard Data Visualization](/assets/images/dashboard.png)
+
+We've built this tutorial to help guide the world's engineers on the basics of data for operational reporting and ultimately AI enablement.
+
 We've initially used the Observable Framework to help simplify the guidance.
 
 The training is key and the understanding is what will take you to the next level.
 
 Be sure to sign up for all DLH.io, dbdeux, and other replated platforms and newsletters to stay up on the latest from our Data Lake and AI community.
 
-This is an interactive operations dashboard for **Brandy's Burritos**, a fictitious multi-location restaurant chain. Built with [Observable Framework](https://observablehq.com/framework/) and powered by data from [MotherDuck](https://motherduck.com/) (cloud-native DuckDB) or other amazing OLAP and Data Lake and Data Warehousing platforms..
+This is an interactive operations dashboard for **Brandy's Burritos**, a fictitious multi-location restaurant chain. Built with [Observable Framework](https://observablehq.com/framework/) and powered by data from [MotherDuck](https://motherduck.com/) (cloud-native DuckDB) or other amazing OLAP and Data Lake and Data Warehousing platforms.
 
 This project accompanies the **DLH.io × MotherDuck integration guide**, where readers connect a Google Sheets data source to MotherDuck through [DLH.io](https://dlh.io), then visualize the synchronized data in this dashboard.
 
