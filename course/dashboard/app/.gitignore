@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.observablehq/
+.env
+
+# sample data
+# course/dashboard/app/src/data/*
