@@ -13,7 +13,7 @@ We've initially used the Observable Framework to help simplify the guidance.
 
 The training is key and the understanding is what will take you to the next level.
 
-Be sure to sign up for all DLH.io, dbdeux, and other replated platforms and newsletters to stay up on the latest from our Data Lake and AI community.
+Be sure to sign up for all DLH.io, dbdeux, and other related platforms and newsletters to stay up on the latest from our Data Lake and AI community.
 
 This is an interactive operations dashboard for **Brandy's Burritos**, a fictitious multi-location restaurant chain. Built with [Observable Framework](https://observablehq.com/framework/) and powered by data from [MotherDuck](https://motherduck.com/) (cloud-native DuckDB) or other amazing OLAP and Data Lake and Data Warehousing platforms.
 
